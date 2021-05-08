@@ -1,0 +1,19 @@
+{
+  "name": "db-lite",
+  "version": "1.0.0",
+  "description": "Customisable lite Database for high volume I/O",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitdgp/db-lite.git"
+  },
+  "author": "Rohit Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitdgp/db-lite/issues"
+  },
+  "homepage": "https://github.com/rohitdgp/db-lite#readme"
+}
